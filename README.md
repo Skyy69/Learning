@@ -28,5 +28,8 @@
 * [Une distribution à ne pas manquer](http://papyros.io/)
 * [Personnaliser son interface ](https://oduso.com/)
 
+##Other
+* [Pendant la pause café](http://www.theuselessweb.com/)
+
 :kissing_heart::heart:
 _With Love_
