@@ -6,7 +6,7 @@
 ##HTML-CSS
 * [Un peu d'inspiration](http://tympanus.net/codrops/)
 * [Librairie d'animation CSS](http://daneden.github.io/animate.css/)
-* [Obtenir le code RGB/HEX d'une couleur](http://www.colorpicker.com/)
+* [Obtenir le code RGB/HEX d'une couleur](http://www.color-hex.com/)
 
 ##JavaScript
 * [Gérer animate.css avec wow.js](http://mynameismatthieu.com/WOW/)
