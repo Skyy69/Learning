@@ -1,4 +1,4 @@
-# Liens intéressants
+# Liens intéressants :coffee:
 
 ##Github
 * [Apprendre la syntaxe du Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -27,3 +27,6 @@
 ##Linux
 * [Une distribution à ne pas manquer](http://papyros.io/)
 * [Personnaliser son interface ](https://oduso.com/)
+
+:kissing_heart::heart:
+_With Love_
