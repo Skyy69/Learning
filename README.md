@@ -13,6 +13,7 @@
 * [Alternative aux animations jQuery](http://julian.com/research/velocity/)
 * [Un scroll plus fluide](https://github.com/cferdinandi/smooth-scroll)
 * [Des sliders sans prise de tête](http://unslider.com/)
+* [Internationalisation de son site (i18n)](https://github.com/recurser/jquery-i18n)
 
 ##PHP
 * [Authentification via Steam](https://github.com/SmItH197/SteamAuthentication)
