@@ -14,6 +14,7 @@
 * [Un scroll plus fluide](https://github.com/cferdinandi/smooth-scroll)
 * [Des sliders sans prise de tête](http://unslider.com/)
 * [Internationalisation de son site (i18n)](https://github.com/recurser/jquery-i18n)
+* [Big Google Is Watching You (Analytics)](https://developers.google.com/analytics/)
 
 ##PHP
 * [Authentification via Steam](https://github.com/SmItH197/SteamAuthentication)
