@@ -44,6 +44,6 @@
 * [Je suis chirurgien!](https://sv-ginger.appspot.com/)
 * [La puissance du hamster](http://sayviget.com/)
 * [Le meilleur pour la fin](http://hellorun.helloenjoy.com/)
-* 
+
 :kissing_heart::heart:
 _With Love_
