@@ -33,5 +33,17 @@
 ##Autre
 * [Pendant la pause café](http://www.theuselessweb.com/)
 
+##La puissance du web, c'est ici
+* [Pendant la pause café](http://www.theuselessweb.com/)
+* [Viens nager avec nous!](http://labs.gooengine.com/pearl-boy/indexBelow.html)
+* [Visitez la cathédral St Jean à Lyon!](http://patapom.com/topics/WebGL/cathedral/index.html)
+* [Qui a dit que les ours n'aiment pas jouer?](https://www.cubeslam.com/kqfslq)
+* [J'ai pas trop compris :expressionless:](http://mission.rosapark.fr/)
+* [Loading.....](http://www.theywilleatyou.com/)
+* [Tu connais Quake ?](https://kripken.github.io/BananaBread/cube2/index.html)
+* [Je suis chirurgien!](https://sv-ginger.appspot.com/)
+* [La puissance du hamster](http://sayviget.com/)
+* [Le meilleur pour la fin](http://hellorun.helloenjoy.com/)
+* 
 :kissing_heart::heart:
 _With Love_
