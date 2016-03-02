@@ -32,9 +32,9 @@
 
 ##Autre
 * [Pendant la pause café](http://www.theuselessweb.com/)
+* [Les joies du code](http://lesjoiesducode.fr/)
 
 ##La puissance du web, c'est ici
-* [Pendant la pause café](http://www.theuselessweb.com/)
 * [Viens nager avec nous!](http://labs.gooengine.com/pearl-boy/indexBelow.html)
 * [Visitez la cathédral St Jean à Lyon!](http://patapom.com/topics/WebGL/cathedral/index.html)
 * [Qui a dit que les ours n'aiment pas jouer?](https://www.cubeslam.com/kqfslq)
